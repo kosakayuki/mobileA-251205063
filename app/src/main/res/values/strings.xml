@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">My Road</string>
+    <string name ="text">明日はきっと良い日になる</string>
+    <string name ="text2">なんてこったパンナコッタ</string>
 </resources>
